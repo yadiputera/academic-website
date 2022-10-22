@@ -1,8 +1,9 @@
 ---
 abstract: Taking into consideration three levels of government (regional, national, and sub-national) that potentially offer protection to refugees, this paper is concerned with changes initiated by the 2016 Presidential Regulation on Handling Foreign Refugees. This regulation has delegated more responsibility for managing refugees to the sub-national levels of administration in Indonesia, which, like other nations in the Southeast Asia, has been reluctant to provide protection for refugees or any options for their integration into society. The reason for this is that, despite many vociferous demands in favor of a ‘regional solution’ in the aftermath of the 2015 Andaman Sea Crisis, most attempts ended up in abeyance. Following suit with the so-called ‘local turn’ in migration studies, which increased attention to the local dimensions of refugee protection due to the receding capacities in the major actors involved both in global refugee protection and international migration management, we direct attention to the sub-national level of refugee management in Indonesia using as a case study the city of Makassar, which has hitherto enjoyed a fairly positive reputation for welcoming refugees. By examining the current living conditions of asylum seekers and refugees in Makassar and comparing them to other places in Indonesia, we ask whether the concept of ‘sanctuary city’ is applicable to a non-Western context and, in doing so, hope to enhance current discussions of creating alternative models for refugee protection beyond the national and regional level.
-author_notes:
-- Equal contribution
-- Equal contribution
+# author_notes:
+# - Equal contribution
+# - Equal contribution
+# - Equal contribution
 authors:
 - Antje Missbach
 - admin
