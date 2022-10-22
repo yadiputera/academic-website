@@ -1,29 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+bio: My research interests include civil conflict, international security and emerging warfare technologies, and refugees and international migration.
+# education:
+#   courses:
+#   - course: PhD in Political Science
+#     institution: University of Florida
+#     year: on-going
+#   - course: MA in International Relations
+#     institution: Universitas Gadjah Mada
+#     year: 2014
+#   - course: BA in International Relations
+#     institution: Universitas Gadjah Mada
+#     year: 2011
+email: "yadiputera@ufl.edu"
+first_name: Yunizar
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- Civil and ethnic conflict
+- International security and emerging war technologies
+- Refugees and international migration
+last_name: Adiputera
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Florida
+  url: https://www.ufl.edu/
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,22 +32,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/yudiadiputera
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-7u3JQIAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/yadiputera
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 superuser: true
-title: Alice Bighetti 吳恩達
+title: Yunizar Adiputera
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in Political Science at the University of Florida. My research interests include civil and ethnic conflict, international security and emerging warfare technologies, and refugees and international migration.I am also affiliated with Universitas Gadjah Mada, Indonesia, where I am currently serve as an assistant professor in International Relations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
