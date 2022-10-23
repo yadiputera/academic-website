@@ -6,7 +6,7 @@ authors:
 - admin
 - Atin Prabandari
 date: "2018-12-29"
-doi: ""
+doi: "https://doi.org/10.14764/10.ASEAS-0003"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -20,7 +20,11 @@ publication_types:
 publishDate: "2018-12-29"
 
 tags:
-- Source Themes
+- Indonesia
+- Migration Governance
+- Presidential Regulations
+- Refugees and Asylum Seekers
+- Sanctuary Cities
 title: Is Makassar a ‘sanctuary city’? Migration governance in Indonesia after the ‘local turn’
 url_code:
 url_dataset: ""

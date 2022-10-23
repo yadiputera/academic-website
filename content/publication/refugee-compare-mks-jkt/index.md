@@ -16,19 +16,21 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-09-21"
-# slides: example
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-#   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
-- Source Themes
+- local turn in refugee governance
+- Indonesia
+- Immigration detention
+- Alternatives to detention
+- Refugee rights
 title:  "The Role of Local Governments in Accommodating Refugees in Indonesia: Investigating Best-Case and Worst-Case Scenarios"
-# url_code: 
-# url_dataset: ""
+url_code:
+url_dataset: ""
 url_pdf: https://www.cambridge.org/core/journals/asian-journal-of-law-and-society/article/abs/role-of-local-governments-in-accommodating-refugees-in-indonesia-investigating-bestcase-and-worstcase-scenarios/DDDA64A05C25DB60471E79A70B0C2808
-# url_poster: ""
-# url_project: ""
-# url_slides: ""
-# url_source: ""
-# url_video: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
 
