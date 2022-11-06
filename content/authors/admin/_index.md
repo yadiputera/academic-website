@@ -39,9 +39,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yadiputera
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yunizar-adiputera-307921129/
 superuser: true
 title: Yunizar Adiputera
 ---
