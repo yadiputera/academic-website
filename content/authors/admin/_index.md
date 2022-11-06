@@ -48,4 +48,4 @@ title: Yunizar Adiputera
 
 I am a PhD student in Political Science at the University of Florida. My research interests include civil and ethnic conflict, international security and emerging warfare technologies, and refugees and international migration.I am also affiliated with Universitas Gadjah Mada, Indonesia, where I am currently serve as an assistant professor in International Relations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/yunizar_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
